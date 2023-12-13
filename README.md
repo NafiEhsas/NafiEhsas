@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NafiEhsas
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript and C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
