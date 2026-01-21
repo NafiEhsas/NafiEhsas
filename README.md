@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NafiEhsas
+- 👋 Hi, I’m NafiEhsas
 - 👀 I’m interested in software engineering
 - 🌱 I’m angular and springboot developer.
 - 💞️ I’m looking to collaborate on ...
